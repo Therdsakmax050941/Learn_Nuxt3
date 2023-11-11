@@ -40,14 +40,5 @@
     max-width: 100%;
     height: 300px; /* ปรับตามที่ต้องการ */
   }
-  .btn {
-    @apply text-white bg-black border-none px-4 py-2 rounded; /* ใช้ Tailwind CSS JIT Plugin */
-  }
-  .btn-primary:hover {
-    @apply bg-blue-700; /* ใช้ Tailwind CSS JIT Plugin */
-  }
-  .btn-success:hover {
-    @apply bg-green-700; /* ใช้ Tailwind CSS JIT Plugin */
-  }
   </style>
   

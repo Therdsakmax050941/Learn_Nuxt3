@@ -2,8 +2,8 @@
   <div>
     <header as="nav" class="bg-gray-800">
       <nav class="navbar navbar-dark border-bottom">
-        <div class="flex h-16 items-center justify-between">
-          <div class="flex items-center"> <!-- เพิ่ม class flex items-center -->
+        <div class="container flex h-18">
+          <div class="flex align-items-center">
             <div class="navbar-brand" style="margin-right: 20px;">
               <img src="/image/logo.svg" alt="shopping" />
             </div>
